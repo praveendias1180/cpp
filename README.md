@@ -49,3 +49,10 @@ The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran
 https://godbolt.org/
 
 ![Godbolt](godbolt.png)
+
+# Errors
+
+- Compile Time Errors
+- Run Time Errors
+- Warnings
+
