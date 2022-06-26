@@ -56,3 +56,4 @@ https://godbolt.org/
 - Run Time Errors
 - Warnings
 
+![CT Error](compile-time-error.png)
